@@ -1,5 +1,7 @@
 # Migrate RDB to AOF
 
+## Dump data to appendonly.aof
+
 In redis-cli
 
 Bakcup data.
